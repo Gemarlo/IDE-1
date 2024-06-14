@@ -1,3 +1,7 @@
+//
+//
+//
+
 import java.util.Scanner;
 public class Main {
 
@@ -55,8 +59,8 @@ public class Main {
      */
         System.out.println(t.getSchool() + STR." \{t.getSport()} team \{t.getMascot()}\n Our motto is \{Team.MOTTO}" + STR." The game will be held at \{t.getLocation()}\n"+ STR." on \{t.getaDate()}!\n We hope to see you there!");
 
-        //ends our display method
-    }
+
+    }//ends our display method
 
 
 

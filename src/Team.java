@@ -19,7 +19,7 @@ public class Team {
     }//end our default constructor
 
     public Team(String aSchool, String aSport, String aMascot, String aDate, String aLocation) {
-        //overload constructor
+        //overloaded constructor
         school = aSchool;
         sport = aSport;
         mascot = aMascot;

@@ -1,3 +1,8 @@
+//Gemarlo Reid
+//CSC 222
+// This is pretty cool, so the getter methods are set in the print statements
+// Retrieving the variables created and stored from user prompts in setTeamData() method, where we returned those variables then utilized them within the display method.
+// mascot sport and school name were in addition to location and date assignment requirements
 import java.util.Scanner;
 public class TestTeam {
 
